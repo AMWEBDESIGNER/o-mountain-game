@@ -14,6 +14,10 @@ Site vitrine statique pour le bar et la salle de jeux d’arcade **O Mountain Ga
 - Dépôt : https://github.com/AMWEBDESIGNER/o-mountain-game
 - Pages : https://o-mountain-game.pages.dev
 
+## Parcours livré
+
+L’accueil est complété par `modes.html` et `infos.html`, avec les modes arcade/bar, l’ambiance ludique, l’adresse place des Boutiques et l’itinéraire. Valider horaires, contacts, logo et visuels avant publication commerciale. Maquette indépendante.
+
 ## Personnalisation
 
 Valider auprès de l’établissement les horaires, contacts, logo et visuels avant une publication commerciale. Fichiers statiques : `index.html`, `style.css`, `app.js`.
